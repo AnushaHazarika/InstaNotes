@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/InstaNotes/static/css/main.99d94f94.chunk.css",
+    "main.js": "/InstaNotes/static/js/main.498619fc.chunk.js",
+    "main.js.map": "/InstaNotes/static/js/main.498619fc.chunk.js.map",
+    "runtime-main.js": "/InstaNotes/static/js/runtime-main.63df8b7c.js",
+    "runtime-main.js.map": "/InstaNotes/static/js/runtime-main.63df8b7c.js.map",
+    "static/js/2.7c0577e7.chunk.js": "/InstaNotes/static/js/2.7c0577e7.chunk.js",
+    "static/js/2.7c0577e7.chunk.js.map": "/InstaNotes/static/js/2.7c0577e7.chunk.js.map",
+    "index.html": "/InstaNotes/index.html",
+    "static/css/main.99d94f94.chunk.css.map": "/InstaNotes/static/css/main.99d94f94.chunk.css.map",
+    "static/js/2.7c0577e7.chunk.js.LICENSE.txt": "/InstaNotes/static/js/2.7c0577e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63df8b7c.js",
+    "static/js/2.7c0577e7.chunk.js",
+    "static/css/main.99d94f94.chunk.css",
+    "static/js/main.498619fc.chunk.js"
+  ]
+}
